@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Galadriel",
+        "origin": "Valinor",
+        "image": "https://static.wikia.nocookie.net/middlearthfilmsaga/images/c/cb/Galadriel.jpg/revision/latest?cb=20180512164253"
+    },
+
+    {
+        "name": "Éowyn",
+        "origin": "Rohan",
+        "image": "https://www.sideshow.com/wp/wp-content/uploads/2022/04/E%CC%81owyn-Battles-Witch-King.jpg"
+    },
+
+    {
+        "name": "Arwen",
+        "origin": "Rivendell",
+        "image": "https://static.wikia.nocookie.net/lotr/images/e/e9/Arwen_-_Sword.jpg/revision/latest/scale-to-width-down/1000?cb=20210625164216"
+    }
+    
+]
